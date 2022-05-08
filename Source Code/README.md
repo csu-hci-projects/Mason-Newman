@@ -4,3 +4,7 @@ style.css was used for both conditions
 
 Participants did not have access to the code, nor could they see it at any point in the experiment. Therefore, only the researcher was aware of the condition
 **ie Single Blind Experiment**
+
+Other files in this folder include the PDF of the passage, the full question set, along with the rationale for the first question set.
+
+**This folder also includes the data collected and subsequent analyses**

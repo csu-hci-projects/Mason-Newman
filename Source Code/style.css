@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    background-color: gainsboro;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    width: 20%;
+    float: right;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+    
+}
+
+.question {
+    font-weight: 600;
+}
+
+.answers {
+    margin-bottom: 20px;
+    
+}
+
+button {
+    border: 0px;
+    border-radius: 2px;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    display: inline-block;
+    
+}
+
+#nextbutton {
+    float: right;
+}
